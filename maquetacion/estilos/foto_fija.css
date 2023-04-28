@@ -1,0 +1,8 @@
+#foto_fondo div{
+    height: 28rem;
+    background: url(../img/fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

@@ -1,0 +1,29 @@
+#alianza{
+    padding: 5rem;
+}
+
+#alianza #items{
+   overflow: hidden;
+}
+
+#alianza ul{
+    display: flex;
+    margin-top: 3rem;
+    list-style: none;
+    animation: cambio 10s infinite;
+}
+
+@keyframes cambio {
+    25% { margin-left: 0px;}
+    50% { margin-left: -720px;} 
+    75% { margin-left: -1100px;}
+}
+
+#alianza ul li img{
+    width: 240px;
+    filter: grayscale(100%);
+}
+
+#alianza ul li img:hover{
+    filter: grayscale(0%);
+}

@@ -1,0 +1,51 @@
+#contenido{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10rem 0 5rem 0;
+}
+
+#contenido p{
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    margin: 0 29% 0 29%;
+}
+
+#contenido button{
+    margin-top: 2rem;
+    border-radius: 24px;
+    padding: 0 1rem 0 1rem;
+    font-size: 12px;
+    font-weight: bold;
+    height: 40px;
+    transition: all 0.5s ease-in;
+    transition: 0.2s;
+}
+
+#contenido #contactanos{
+    border: 2px solid #201B24;
+    margin-right: 2rem;
+    width: 140px;
+    background: white;
+}
+
+#contenido #contactanos:hover{
+    background: #201B24;
+    color: white;
+    cursor: pointer;
+}
+
+#contenido #sumate{
+    width: 120px;
+    background: white;
+    color: rgb(155, 81, 224, 1);
+    border: 2px solid #6b53f0;
+}
+
+#contenido #sumate:hover{
+    background: #6b53f0;
+    color: white;
+    cursor: pointer;
+}

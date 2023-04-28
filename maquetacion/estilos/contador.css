@@ -1,0 +1,66 @@
+#conteo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #201b24;
+    height: 400px;
+    padding: 0 15rem 0 15rem;
+}
+
+#conteo #info{
+    float: left;
+    width: 50%;
+    color: white;
+    padding: 0 3rem 0 0.5rem;
+}
+
+#conteo #info p{
+    font-size: 14px;
+    line-height: 1.2rem;
+}
+
+#conteo #info h1{
+    margin-bottom: 1rem;
+}
+
+#conteo #contador{
+    margin-right: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    float: right;
+    width: 50%;
+}
+
+#conteo #contador div h1{
+    margin-top: 2rem;
+    text-align: center; 
+    font-size: 50px;   
+}
+
+#conteo #contador div p{
+    text-align: center;
+    color: #828b9c;
+    font-size: 14px;
+}
+
+#conteo #mentores div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: fit-content;
+    margin: 0 2rem 0 2rem;
+}
+
+#conteo #mentores div p{
+    margin-top: 1.5rem;
+    float: left;
+    font-size: 30px;
+    color:  #6b53f0;
+}
+
+#conteo #mentores div h1{
+    float: right;
+    font-size: 50px;
+}
