@@ -33,11 +33,11 @@
 </div>
 <div style="display: flex; align-items: center; justify-content: space-around">
     <div style="display: flex; flex-direction: column; align-items: center; color: black">
-        <img src="https://drive.google.com/uc?export=view&id=1qlv-QjdNQz9szJ1DTpBRPhDfXJKuWkwP" style="border-radius: 50%; width: 250px; border: 3px solid black; float: left">
-        <p>Lorenzo Sauchelli</p>
+        <img src="https://drive.google.com/uc?export=view&id=1rtwYkshQVtyBv2QT3Dn0tG2hNCyLDaVi" style="border-radius: 50%; width: 250px; border: 3px solid black; float: left">
+        <p>Andres Rodriguez</p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; color: black">
-        <img src="https://drive.google.com/uc?export=view&id=1sIlF1O7pn6nzaQTXA7NCFmltMedEp0TS" style="border-radius: 50%; width: 250px; border: 3px solid black; float: rigth">
-        <p>Luciana Pesado</p>
+        <img src="https://drive.google.com/uc?export=view&id=1iJWth66KYS7-U6hoKYgPE-DEQ0JFfsBT" style="border-radius: 50%; width: 250px; border: 3px solid black; float: rigth">
+        <p>Diana Cabrera</p>
     </div>
 </div>
