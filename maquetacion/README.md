@@ -6,6 +6,14 @@
     <h2 style="color: black; text-decoration: underline; margin-bottom: 2rem"> Replicar el Sitio de xAcademy<h2>
 </div>
 
+<h3 style="text-align: left; color: black"><strong>Yo arranque el proyecto desde la primera clase por eso es que la entrega es temprana.<br> Esto se puede comprobar porque lo inicie en al repositorio: https://github.com/PabloAndresBustos/html-css </strong></h3>
+<br>
+<h3 style="text-align: left; color: black">¿Porque no hay JavaScript?</h3>
+
+<img style="border-radius: 14px" src="https://drive.google.com/uc?export=view&id=1qhB5ACR-o5a7wVGraeTS-j3Bmpr0JYtp">
+<br>
+<br>
+<br>
 <h2 style="text-align: left; color: black">En la primera clase de maquetación como ejercicio práctico intentamos realizar una réplica del home del sitio de la Fundación. El código trabajado en la clase está guardado en el repo público del Academy (abajo el link) en la carpeta maquetación. Como tarea deben:</h2>
 
 <div style="text-align: left; color: black">
